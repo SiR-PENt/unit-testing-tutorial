@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button should match its snapshot 1`] = `
+<button>
+  Click Me
+</button>
+`;
